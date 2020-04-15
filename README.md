@@ -19,14 +19,15 @@ Using short (Amazon Reviews Data) and the long (IMDB Reviews Data) format text r
 
 ## Dataset: IMDB Movie Reviews
 #### About Data:
-1. one of the best known
-2. used a,b and c
-#### Project Description:
-1. one of the best known
-2. used a,b and c
+IMDB Reviews is one of the best known data datasets for sentiment analysis. It comprises a selection of 50,000 highly-polarized long-form movie reviews. The median length of reviews is 175 words. 
+
+#### Project Goal:
+The goal is to use (state-of-art) deep learning frameworks such as Bidirectional LSTMs to classify the sentiment with an accuracy of 85% or more. 
+
 #### Project Approach:
-1. one of the best known
-2. used a,b and c
+Combined advanced deep learning architectures like Bidirectional LSTMs, with some innovative text pre-processing.
+
+From a text-preprocessing standpoint, expanded contractions (*e.g. won't -> will not*) and de-coded possesives (*e.g. chilren's -> children s*) which helped increase the accuracy of the model. 
+
 #### Result Summary:
-1. one of the best known
-2. used a,b and c
+A model with a test set accuracy of 83%
