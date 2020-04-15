@@ -30,4 +30,4 @@ Combined advanced deep learning architectures like Bidirectional LSTMs, with som
 From a text-preprocessing standpoint, expanded contractions (*won't -> will not*) and de-coded possesives (*chilren's -> children s*) which helped increase the accuracy of the model. 
 
 #### Result Summary:
-A model with a test set accuracy of 83%
+A model with a test set accuracy of 84%
