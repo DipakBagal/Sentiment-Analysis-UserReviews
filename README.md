@@ -27,7 +27,7 @@ The goal is to use (state-of-art) deep learning frameworks such as Bidirectional
 #### Project Approach:
 Combined advanced deep learning architectures like Bidirectional LSTMs, with some innovative text pre-processing.
 
-From a text-preprocessing standpoint, expanded contractions (*e.g. won't -> will not*) and de-coded possesives (*e.g. chilren's -> children s*) which helped increase the accuracy of the model. 
+From a text-preprocessing standpoint, expanded contractions (*won't -> will not*) and de-coded possesives (*chilren's -> children s*) which helped increase the accuracy of the model. 
 
 #### Result Summary:
 A model with a test set accuracy of 83%
