@@ -2,9 +2,6 @@
 This repository has a set of problems in the field of text sentiment analysis. 
 Using short (Amazon Reviews Data) and the long (IMDB Reviews Data) format text reviews to extract seentiment 
 
-## Dataset: Amazon Customer Reviews 
-*work-in-progress, expected to be updated by Late April*
-
 ## Dataset: IMDB Movie Reviews
 #### About Data:
 IMDB Reviews is one of the best known data datasets for sentiment analysis. It comprises a selection of 50,000 highly-polarized long-form movie reviews. The median length of reviews is 175 words. 
@@ -21,3 +18,7 @@ From an architectural standpoint, used a `three layer Bidirectional LSTM network
 
 #### Result Summary:
 All the combined techniques worked well in unision. The final model has an test set accuracy of 85%
+
+
+## Dataset: Amazon Customer Reviews 
+*work-in-progress, expected to be updated by Late April*
